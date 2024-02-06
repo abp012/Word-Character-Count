@@ -1,0 +1,23 @@
+body{
+            padding: 50px 400px;
+        }
+        h1{
+            text-align: center;
+            padding: 10px;
+            margin: 0px;
+            background-color: aquamarine;
+            color: #ca2727;
+        }
+        textarea{
+            width: 99%;
+            border-color: aquamarine ;
+            margin: 0px;
+            border-radius: 30px;
+        }
+        p{
+            background-color: aquamarine;
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            margin: 0px;
+        }
